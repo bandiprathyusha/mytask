@@ -1,0 +1,10 @@
+empid,firstName,lastName,managerid,jobtitle,deptId,location
+68319,Smith,Kayling,,President,201,Dallas
+66928,Allen,Blaze,68319,Manager,401
+#67832,Ward,Claree,68319,Manager,301,Chicago
+22272,prath,yusha,68319,developer,104,bellampally
+22271,sreeja,gundeti,68319,104,hyd
+68736,Jameskhan,Adnres,67858,Clerk,401,Boston
+69000,Ford,Julius,66928,Clerk,201,hyd
+69324,Millera,Markerr,67832,Clerk,301,Chicago
+69000,Ford,Julius,66928,Clerk,201,Chicago
