@@ -1,0 +1,17 @@
+employeeId,firstName,lastName,role,managerId,location,deptName,deptId,email
+11111,RamaMurthy,Jaligama,Managing Director,11111,Los Angeles,Management,101,ram@gmail.com
+11112,Phaniraj,Jaligama,President,11111,Los Angeles,Management,101,pj@gmail.com
+11115,David,Sandra,VP-Operations,11113,Hyderabad,Management,101,ds@gmail.com
+11113,Arun Kumar,Alampally,Founder,11113,Los Angeles,Management,101,ak@gmail.com
+11116,Kushal,Arya,CTO,11113,Los Angeles,Technology,102,ka@gmail.com
+11117,Srinivas,Bollapragada,VP-Delivery,11116,Los Angeles,DELIVERY,103,sb@gmail.com
+11114,Ashok,Dongari,VP-Sales,11116,Los Angeles,SALES,104,ad@gmail.com
+11118,Uday Kumar,Satrasala,VP-Sales,11114,Los Angeles,SALES,104,uk@gmail.com
+11119,Sreeram,Annamraju Venkata,Senior Manager-Delivery,11117,Los Angeles,DELIVERY,103,sa@gmail.com
+11120,Rashi,Shrivastava,Senior HR Manager,11113,Los Angeles,HR,108,rs@gmail.com
+11126,Jacob,Sandra,IT Infrastructure Manager,11116,Hyderabad,IT,109,js@gmail.com
+11121,Phaniratna,Namani,SeniorTechnicalTraining Executive,11113,Hyderabad,TECHNICAL TRAINING,105,pn@gmail.com
+11122,Narender,Markanti,Manager Delivery,11121,Hyderabad,OILC,115,nm@gmail.com
+22272,prathyusha,bandi,traineeengineer,11121,hyderabad,oilc,104,prathyusha.bandi@ojas-it.com
+22271,sreeja,gundeti,traineeengineer,22272,hyderabad,oilc,104,sreeja.gundeti@ojas-it.com
+22211,saimahesh,kotakondapalegar,22272,hyderabad,oilc,104,saimaheshkotakondapalegar@ojas-it.com
